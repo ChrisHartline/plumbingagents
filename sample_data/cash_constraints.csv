@@ -1,0 +1,2 @@
+period,purchasing_budget,minimum_cash_reserve,max_single_po,data_owner,sharing_policy
+2026-W33,2600.00,25000.00,2500.00,Accounting,Share guardrails only; do not share raw balances receivables or payables
